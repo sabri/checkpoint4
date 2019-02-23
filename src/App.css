@@ -1,0 +1,28 @@
+header{
+  height :50px;
+  background: black;
+  margin: 0px;
+
+}
+body{
+  background: gray;
+  margin: 0px;
+
+}
+h1{
+  text-align: center;
+  color: darkgray;
+  padding: 20px;
+  margin: 30px;
+}
+.box{
+text-align: center;
+width: 20%;
+height: 350;
+display: inline-block;
+}
+.box img{
+  width: 90%;
+  margin-left :10px;
+}
+
